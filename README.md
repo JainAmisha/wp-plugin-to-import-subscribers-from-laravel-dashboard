@@ -24,5 +24,8 @@ After Installation and Activation of this plugin, you need to do following Setti
 - The Settings are available under user menu -> Import Subscriber Settings
 - Encryption details should match Laravel Application Encryption details in the .env file.
 
+#### Screenshots
 
-    
+![screenshot-localhost-2022 06 13-21_50_01](https://user-images.githubusercontent.com/36112929/173430021-235fdfcd-050e-43fe-bec8-cbd2469b7668.png)
+
+![screenshot-localhost-2022 06 13-22_17_38](https://user-images.githubusercontent.com/36112929/173429707-1b529087-ed07-4431-800f-dc31d63a7337.png)
