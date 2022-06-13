@@ -29,3 +29,6 @@ After Installation and Activation of this plugin, you need to do following Setti
 ![screenshot-localhost-2022 06 13-21_50_01](https://user-images.githubusercontent.com/36112929/173430021-235fdfcd-050e-43fe-bec8-cbd2469b7668.png)
 
 ![screenshot-localhost-2022 06 13-22_17_38](https://user-images.githubusercontent.com/36112929/173429707-1b529087-ed07-4431-800f-dc31d63a7337.png)
+
+![wp-1](https://user-images.githubusercontent.com/36112929/173430940-18ac033d-a77b-4c64-a2b9-a1703d9e886e.png)
+
